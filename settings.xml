@@ -32,5 +32,5 @@
 <new_app_show_for_shareable_user_ios>1</new_app_show_for_shareable_user_ios>
 <new_app_show_for_all_users_ios>1</new_app_show_for_all_users_ios>
 <new_app_how_often_to_show_ios>1</new_app_how_often_to_show_ios>
-<production>false</production>
+
  </settings>
