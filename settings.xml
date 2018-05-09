@@ -2,7 +2,7 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd" >
 <settings>
                                 <usage>true</usage>
-                                <production>true</production>
+                                <production>false</production>
                                 <invoice>true</invoice>
                                 <services>true</services>
                                 <subscription>true</subscription>
