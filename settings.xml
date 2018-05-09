@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd" >
+<settings>
+                                <usage>true</usage>
+                                <production>true</production>
+                                <invoice>true</invoice>
+                                <services>true</services>
+                                <subscription>true</subscription>
+                                <offers>true</offers>
+                                <profile>true</profile>
+                                <ladda>true</ladda>
+                                <emma>true</emma>
+                                <localization_version>2018-03-12T15:43:00</localization_version>
+                                <subscription_xml_version>2016-09-09T13:49:00</subscription_xml_version>
+<android_prepaid_refill_link>http://www.telenor.se/privat/mobil-telefoni/kontantkort/ladda.html</android_prepaid_refill_link>
+<iphone_prepaid_refill_link>http://www.telenor.se/privat/mobil-telefoni/kontantkort/ladda.html</iphone_prepaid_refill_link>          
+    <offers_link>http://www.telenor.se</offers_link> 
+<offers_image_link>http://www.telenor.se/published_images/appkampanj.jpg</offers_image_link>
+<signup_youtube_video_code>sIzwFrS_CUA</signup_youtube_video_code>
+<home_youtube_video_code>sIzwFrS_CUA</home_youtube_video_code>
+<usage_youtube_video_code>sIzwFrS_CUA</usage_youtube_video_code>
+<homescreen_lazy_loading_interval>2.0</homescreen_lazy_loading_interval>
+
+<new_app_date_android>2017-11-15T13:00:00</new_app_date_android>
+<new_app_link_android>https://play.google.com/store/apps/details?id=se.telenor.mytelenor</new_app_link_android>
+<new_app_show_for_shareable_user_android>true</new_app_show_for_shareable_user_android>
+<new_app_show_for_all_users_android>true</new_app_show_for_all_users_android>
+<new_app_how_often_to_show_android>1</new_app_how_often_to_show_android>
+ 
+<new_app_date_ios>2016-11-15T13:21:00</new_app_date_ios>
+<new_app_link_ios>https://itunes.apple.com/se/app/mitt-telenor-se/id1154435018?mt=8</new_app_link_ios>
+<new_app_show_for_shareable_user_ios>1</new_app_show_for_shareable_user_ios>
+<new_app_show_for_all_users_ios>1</new_app_show_for_all_users_ios>
+<new_app_how_often_to_show_ios>1</new_app_how_often_to_show_ios>
+<production>true</production>
+ </settings>
